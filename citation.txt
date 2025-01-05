@@ -1,0 +1,8 @@
+@article{REPO229,
+    author = "Liu, J. et al.",
+    journal = "Medical Image Computing and Computer Assisted Intervention – MICCAI 2024",
+    number = "",
+    title = "{Swin-UMamba: Mamba-Based UNet with ImageNet-Based Pretraining}",
+    volume = "15009",
+    year = "2024"
+}
