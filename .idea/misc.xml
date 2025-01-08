@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.8" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.15 (sftp://cwq@172.31.226.150:22/home/cwq/anaconda3/envs/pytorch/manba/bin/python3.10)" project-jdk-type="Python SDK" />
+  <component name="PythonCompatibilityInspectionAdvertiser">
+    <option name="version" value="3" />
+  </component>
+</project>
